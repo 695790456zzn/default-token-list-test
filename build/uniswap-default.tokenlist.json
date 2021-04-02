@@ -294,12 +294,12 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
-      "name": "Wrapped Ether",
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "symbol": "WETH",
+      "name": "Wrapped HT",
+      "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+      "symbol": "WHT",
       "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      "chainId": 128,
+      "logoURI": "https://youswap.s3-ap-southeast-1.amazonaws.com/YouSwap/0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f.png"
     },
     {
       "chainId": 1,
@@ -318,84 +318,12 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
     },
     {
-      "name": "Dai Stablecoin",
-      "address": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
-    },
-    {
-      "name": "Uniswap",
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "symbol": "UNI",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "You USDT",
-      "address": "0xFA8B1212119197eC88Fc768AF1b04aD0519Ad994",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "You",
-      "address": "0x1093EcdBACa4168F136f3BEfd17a261bfbbeDdA3",
+      "name": "YouSwap",
+      "address": "0x4b8d7c3Ec28cefb84A503084a41A84511c613138",
       "symbol": "You",
       "decimals": 6,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "You WBFA",
-      "address": "0x932d3818a2cd4442430dcb2953694d6cd37bcf9b",
-      "symbol": "WBFA",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "You WBFB",
-      "address": "0x90336de208310c235759c37867d3a603451d8eee",
-      "symbol": "WBFB",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "You WBFC",
-      "address": "0x2fdd12d6B68464ADDD52326C4118986546934cC9",
-      "symbol": "WBFC",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "You DAI",
-      "address": "0x34cE2452dbeF7c9F69CC6a608FFaA78B126926A5",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "You USDC",
-      "address": "0x0a67d597e48a46b49c2580cEC10e1260314E4D35",
-      "symbol": "USDC",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+      "logoURI": "https://youswap.s3-ap-southeast-1.amazonaws.com/YouSwap/0x1d32916CFA6534D261AD53E2498AB95505bd2510.png"
     },
     {
       "name": "YouSwap",
@@ -403,7 +331,7 @@
       "symbol": "YOU",
       "decimals": 6,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/amazingHuo/YouSwap/master/0x1d32916CFA6534D261AD53E2498AB95505bd2510.png"
+      "logoURI": "https://youswap.s3-ap-southeast-1.amazonaws.com/YouSwap/0x1d32916CFA6534D261AD53E2498AB95505bd2510.png"
     },
     {
       "name": "Dai Stablecoin",
